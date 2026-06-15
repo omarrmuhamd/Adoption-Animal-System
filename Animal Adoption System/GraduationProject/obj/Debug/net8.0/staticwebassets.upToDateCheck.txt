@@ -1,0 +1,5 @@
+wwwroot\images\animals\Cat1.jpg
+wwwroot\images\animals\Cat2.jpg
+wwwroot\images\animals\Dog1.jpg
+wwwroot\images\animals\Dog2.jpg
+wwwroot\images\animals\Dog3.jpg

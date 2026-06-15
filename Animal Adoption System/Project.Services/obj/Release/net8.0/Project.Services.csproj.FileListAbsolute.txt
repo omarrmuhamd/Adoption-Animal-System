@@ -1,0 +1,15 @@
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\bin\Release\net8.0\Project.Services.deps.json
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\bin\Release\net8.0\Project.Services.dll
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\bin\Release\net8.0\Project.Services.pdb
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\bin\Release\net8.0\Project.Core.dll
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\bin\Release\net8.0\Project.Core.pdb
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project.Services.csproj.AssemblyReference.cache
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project.Services.AssemblyInfoInputs.cache
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project.Services.AssemblyInfo.cs
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project.Services.csproj.CoreCompileInputs.cache
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project..A9B07333.Up2Date
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project.Services.dll
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\refint\Project.Services.dll
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\Project.Services.pdb
+D:\BackEnd.NET\study\API\GraduationProject\GraduationProject\Project.Services\obj\Release\net8.0\ref\Project.Services.dll

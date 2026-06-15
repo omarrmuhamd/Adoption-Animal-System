@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GraduationProject/Animal Adoption System.csproj" />
+  <Project Path="Project.Core/Project.Core.csproj" />
+  <Project Path="Project.Repository/Project.Repository.csproj" />
+  <Project Path="Project.Services/Project.Services.csproj" Id="3fd61c1b-118a-488f-81d6-71c359f336c6" />
+</Solution>

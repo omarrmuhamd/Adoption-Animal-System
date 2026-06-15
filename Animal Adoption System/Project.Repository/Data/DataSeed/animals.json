@@ -1,0 +1,182 @@
+[
+  {
+
+    "Name": "Max",
+    "Age": 3,
+    "Gender": "Male",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog1.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 1,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Bella",
+    "Age": 2,
+    "Gender": "Female",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog2.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 2,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Rocky",
+    "Age": 4,
+    "Gender": "Male",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog3.jpg",
+    "ShelterId": 2,
+    "AnimalBreedId": 3,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Duke",
+    "Age": 5,
+    "Gender": "Male",
+    "HealthStatus": "Injured",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog1.jpg",
+    "ShelterId": 2,
+    "AnimalBreedId": 4,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Luna",
+    "Age": 2,
+    "Gender": "Female",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Cat1.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 5,
+    "AnimalTypeId": 2
+  },
+  {
+
+    "Name": "Milo",
+    "Age": 1,
+    "Gender": "Male",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Cat2.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 6,
+    "AnimalTypeId": 2
+  },
+  {
+
+    "Name": "Charlie",
+    "Age": 3,
+    "Gender": "Male",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog2.jpg",
+    "ShelterId": 2,
+    "AnimalBreedId": 7,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Lucy",
+    "Age": 2,
+    "Gender": "Female",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog3.jpg",
+    "ShelterId": 2,
+    "AnimalBreedId": 8,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Bruno",
+    "Age": 4,
+    "Gender": "Male",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog1.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 1,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Coco",
+    "Age": 2,
+    "Gender": "Female",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Cat1.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 5,
+    "AnimalTypeId": 2
+  },
+  {
+
+    "Name": "Jack",
+    "Age": 3,
+    "Gender": "Male",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog1.jpg",
+    "ShelterId": 2,
+    "AnimalBreedId": 2,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Lily",
+    "Age": 1,
+    "Gender": "Female",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Cat2.jpg",
+    "ShelterId": 2,
+    "AnimalBreedId": 6,
+    "AnimalTypeId": 2
+  },
+  {
+
+    "Name": "Oscar",
+    "Age": 5,
+    "Gender": "Male",
+    "HealthStatus": "Injured",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog1.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 3,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Maya",
+    "Age": 2,
+    "Gender": "Female",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog2.jpg",
+    "ShelterId": 2,
+    "AnimalBreedId": 7,
+    "AnimalTypeId": 1
+  },
+  {
+
+    "Name": "Toby",
+    "Age": 3,
+    "Gender": "Male",
+    "HealthStatus": "Healthy",
+    "IsAdopted": false,
+    "ImageUrl": "images/animals/Dog3.jpg",
+    "ShelterId": 1,
+    "AnimalBreedId": 4,
+    "AnimalTypeId": 1
+  }
+]
